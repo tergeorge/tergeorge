@@ -1,23 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15068
-Fork on GitHub
-4076
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Teresa George</h1>
 <h3 align="center">A passionate researcher and data scientist</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tergeorge" alt="tergeorge" /></a> </p>
 
 - 🔭 I’m currently working on [CPAC](https://github.com/FCP-INDI/C-PAC)
 
@@ -38,27 +21,3 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tergeorge&" alt="tergeorge" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
