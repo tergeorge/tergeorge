@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Teresa George</h1>
-<h3 align="center">A passionate researcher and data scientist</h3>
+
 
 - 🔭 I’m currently working on [CPAC](https://github.com/FCP-INDI/C-PAC)
 
